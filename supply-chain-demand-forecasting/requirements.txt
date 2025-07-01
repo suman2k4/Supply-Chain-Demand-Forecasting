@@ -1,0 +1,10 @@
+streamlit
+flask
+pandas
+plotly
+prophet
+scikit-learn
+matplotlib
+mlflow
+dagshub
+python-dotenv
