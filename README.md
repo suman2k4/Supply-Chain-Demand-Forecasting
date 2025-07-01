@@ -65,16 +65,3 @@ The dataset includes features such as:
 
 ---
 
-## 📁 Project Structure
-
-```bash
-.
-├── Notebooks/                   # Jupyter experiments
-├── data/                        # Raw & processed data
-├── src/                         # Pipeline code
-├── app.py                       # Streamlit UI
-├── Dockerfile                   # Container setup
-├── requirements.txt             # Python packages
-├── dvc.yaml                     # DVC pipeline config
-├── mlruns/                      # MLflow tracking
-└── README.md                    # This file
